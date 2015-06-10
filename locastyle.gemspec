@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Gabriel Pereira"]
   spec.email         = ["gabrielgibson@gmail.com"]
 
-  spec.summary       = %q{Use Locastyle with your application}
-  spec.description   = %q{This gem provides the framework Locastyle for your application.}
+  spec.summary       = %q{Use Locastyle with your application ruby}
+  spec.description   = %q{This gem provides the framework Locastyle for your application ruby.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 

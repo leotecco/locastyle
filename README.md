@@ -32,7 +32,7 @@ Add the following to your `app/assets/javascripts/application.js`:
 
     //= require locastyle
 
-### Include locastyle stylesheet assets
+#### Include locastyle stylesheet assets
 
 Add to your `app/assets/stylesheets/application.css`:
 

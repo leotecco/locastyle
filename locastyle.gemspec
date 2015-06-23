@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "locastyle"
   spec.version       = Locastyle::VERSION
   spec.authors       = ["Gabriel Pereira"]
-  spec.email         = ["gabrielgibson@gmail.com"]
+  spec.email         = ["gpereira@tray.net.br"]
 
   spec.summary       = %q{Use Locastyle with your ruby application}
   spec.description   = %q{This gem provides the framework Locastyle for your ruby application.}

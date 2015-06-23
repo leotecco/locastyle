@@ -40,7 +40,7 @@ Add to your `app/assets/stylesheets/application.css`:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/gabrielgibson/locastyle.
+Bug reports and pull requests are welcome on GitHub at https://github.com/tray-tecnologia/locastyle.
 
 ## License
 

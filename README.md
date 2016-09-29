@@ -1,6 +1,6 @@
 # Locastyle
 
-This gem provides the front-end framework [Locastyle](https://github.com/locaweb/locawebstyle), at version **3.8.5**, for your ruby application.
+This gem provides the front-end framework [Locastyle](https://github.com/locaweb/locawebstyle), at version **3.9.0**, for your ruby application.
 
 ## Dependencies
 
